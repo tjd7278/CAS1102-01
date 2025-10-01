@@ -2,4 +2,4 @@ def hello(name):
     print(f"Hello {name}")
 
 if __name__ == '__main__':
-    hello("<minsung kim>")
+    hello("<Kim minsung>")
